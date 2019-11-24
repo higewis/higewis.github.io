@@ -52,7 +52,9 @@ logo: "logo.png"
 #   /_/    \__,_/\__, /_/_/ /_/\__,_/\__/_/\____/_/ /_/
 #               /____/
 #
-gems: [jekyll-paginate]
+gems:
+    - jekyll-gist
+    - jekyll-paginate
 paginate: 20                # Paginates all X entries
 paginate_path: "page:num"   # Pagination path › Important for blog page in /blog/ to work
 
@@ -102,7 +104,7 @@ compress_html:
 defaults:
   -
     scope:
-      path: ""          # an empty string here means all files in the project
+      path: "" 				# an empty string here means all files in the project
       type: "pages"
     values:
       header:
@@ -178,10 +180,6 @@ msapplication_tilecolor:                "#fabb00"
 #og_image:                           "http://images.phlow.de/phlow/phlow_de-logo-512x.png"
 #og_locale:                          "en_EN"
 #og_type:                            "website"
-#og_title:                           "Feeling Responsive – A Responsive Theme for Jekyll"
-#og_description:                     "Feeling Responsive is built on the fabulous Foundation Framework and comes with lots of features to show your content right."
-# og_url:                           ""
-# og_site_name:                     ""
 
 
 #      _____            _       __   __  ___         ___
