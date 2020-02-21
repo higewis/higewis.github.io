@@ -59,5 +59,8 @@ zu identifizieren. -
 * GGSG - Gesellschaft für germanistische Sprachgeschichte e.V.  
 [Homepage]( http://germanistische-sprachgeschichte.de/ ){:target="_blank"}
 
+* IAK - Internationaler Arbeitskreis Historische Stadtsprachenforschung  
+[Homepage]( http://stadtsprachen.germanistik.uni-wuerzburg.de/ ){:target="_blank"}
+
 * KULI - Kulturbezogene und kulturanalytische Linguistik  
 [Homepage]( http://www.kulturlinguistik.org/ ){:target="_blank"}

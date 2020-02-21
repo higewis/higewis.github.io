@@ -4,12 +4,20 @@ layout: page
 
 ## Ankündigungen
 
-### Eichstätt, 23./24. September 2019
+### Białystok, 24.-26. September 2020
 
-#### Die Sprache wissenschaftlicher Objekte. Interdisziplinäre Perspektiven auf die materielle Kultur in den Wissenschaften
-(3. HiGeWiS-Tagung)
+#### Jahrestagung der Matthias-Kramer-Gesellschaft: "Mehrsprachigkeit im Schulwesen der FNZ"
 
-[CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"} 
+* [CfP]( {{site.url}}/downloads/CfP_Bialystok.pdf ){:target="_blank"}
 
-[Programm]( https://www.ku.de/slf/germanistik/deutschsprawi/tagungen-und-workshops/die-sprache-wissenschaftlicher-objekte/programm/ ){:target="_blank"}
+### Hamburg, 5./6. Oktober 2020
+
+#### 37. Jahrestagung des Internationalen Arbeitskreises für Hist. Stadtsprachenforschung
+
+* [CfP]( {{site.url}}/downloads/CfP_Hamburg.pdf ){:target="_blank"}
+
+### Warschau, 10.-12. September 2021
+
+#### 4. HiGeWiS-Tagung (Thema folgt)
+
 

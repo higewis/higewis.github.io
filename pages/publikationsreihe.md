@@ -28,7 +28,7 @@ populärwissenschaftliche Sprach- und Kommunikationsformen sowie Fragen des Wiss
 
 * [Weitere Informationen]( https://www.degruyter.com/view/serial/486225?rskey=RG1b1p&result=1 ){:target="_blank"} auf den Seiten des Verlags Walter de Gruyter
 
-* bisher erschienen: Bände 1-3, in Planung für 2019: Bände 4-6 
+* bisher erschienen: Bände 1-4, in Vorbereitung/Planung für 2020: Bände 5-7 
 
 * Wissenschaftlicher Beirat: † Ulrich Ammon (Duisburg-Essen), Marian Füssel (Göttingen), Daniel Fulda (Halle), 
 Michael D. Gordin (Princeton), Mechthild Habermann (Erlangen), Marion Gindhart (Mainz), Thomas Gloning (Gießen), 
@@ -38,3 +38,4 @@ Matthias Schulz (Würzburg), Dirk Werle (Heidelberg)
 ![LIAC]( {{site_url}}/images/LIAC_1.jpg )
 ![LIAC]( {{site_url}}/images/LIAC_2.jpg )
 ![LIAC]( {{site_url}}/images/LIAC_3.jpg )
+![LIAC]( {{site_url}}/images/LIAC_4.jpg )

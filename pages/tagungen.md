@@ -7,6 +7,16 @@ header:
 
 
 
+## 2019: Eichstätt
+
+### "Die Sprache wissenschaftlicher Objekte. Interdisziplinäre Perspektiven auf die materielle Kultur in den Wissenschaften"
+
+Kath. Universität Eichstätt-Ingolstadt, Lehrstuhl für Dt. Sprachwissenschaft, 23./24. September 2019
+
+
+* [Tagungsprogramm]( https://www.ku.de/slf/germanistik/deutschsprawi/tagungen-und-workshops/die-sprache-wissenschaftlicher-objekte/programm/ ){:target="_blank"} 
+* [CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"}
+
 ## 2017: Würzburg
 
 ### "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"
