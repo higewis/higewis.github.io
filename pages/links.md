@@ -32,7 +32,7 @@ Voraussetzens, des Begründens, des Folgerns, des Einschränkens, des Übertrage
 [Projektseite]( http://research.uni-leipzig.de/gesig/index.html ){:target="_blank"}
 
 
-* HiVoKo - Historisches Vorlesungskorpus (Michael Prinz, Universität Zürich)
+* HiVoKo - Historisches Vorlesungskorpus (Michael Prinz, Universität Uppsala)
 
 > Im Rahmen des Projekts "Historisches Vorlesungskorpus" (Diachronic Lecture Corpus) wird ein annotiertes Textkorpus handschriftlicher 
 studentischer Vorlesungsnachschriften ab ca. 1700 aufgebaut. Damit sollen Erkenntnisse über die historische akademische Mündlichkeit und die Entwicklung der 
