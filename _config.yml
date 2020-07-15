@@ -53,7 +53,7 @@ logo: "logo.png"
 #               /____/
 #
 gems: [jekyll-paginate]
-paginate: 20                # Paginates all X entries
+paginate: 15                # Paginates all X entries
 paginate_path: "page:num"   # Pagination path › Important for blog page in /blog/ to work
 
 
