@@ -20,7 +20,7 @@ verfügbaren Volltexten, die für die deutsche Fach- und Wissenschaftssprachgesc
 > Im Rahmen des seit 2007 an der Berlin-Brandenburgischen Akademie der Wissenschaften angesiedelten DTA wird ein umfangreiches 
 historisches Referenzkorpus für das 17. bis 19. Jahrhundert aufgebaut. Es enthält Volltexte, v. a. gedruckte Erstausgaben 
 unterschiedlicher „Genres“ (Erbauungsliteratur, Wissenschaft etc.), wobei größere Textmengen bereits ab den 1580er Jahren zur 
-Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 818 Werke verfügbar (Stand: 9.2.2018). -
+Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 944 Werke verfügbar (Stand: 4.3.2021). -
 [Projektseite]( http://www.deutschestextarchiv.de/list/browse?genre=Wissenschaft ){:target="_blank"}
  
  

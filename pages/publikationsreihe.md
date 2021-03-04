@@ -26,9 +26,9 @@ die mit dem veränderten internationalen Status von Einzelsprachen wie vor allem
 Neben der Konzentration auf die wissenschaftsinterne Kommunikation werden auch Arbeiten aufgenommen, die wissenschaftsexterne und 
 populärwissenschaftliche Sprach- und Kommunikationsformen sowie Fragen des Wissenstransfers aufgreifen.
 
-* [Weitere Informationen]( https://www.degruyter.com/view/serial/486225?rskey=RG1b1p&result=1 ){:target="_blank"} auf den Seiten des Verlags Walter de Gruyter
+* [Weitere Informationen]( https://www.degruyter.com/serial/LIAC-B/html ){:target="_blank"} auf den Seiten des Verlags Walter de Gruyter
 
-* bisher erschienen: Bände 1-5, in Vorbereitung/Planung für 2020/21: Bände 6-8 
+* bisher erschienen: Bände 1-5, in Vorbereitung für 2021/22: Bände 6-8 
 
 * Wissenschaftlicher Beirat: † Ulrich Ammon (Duisburg-Essen), Marian Füssel (Göttingen), Daniel Fulda (Halle), 
 Michael D. Gordin (Princeton), Mechthild Habermann (Erlangen), Marion Gindhart (Mainz), Thomas Gloning (Gießen), 
