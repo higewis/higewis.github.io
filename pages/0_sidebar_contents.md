@@ -4,23 +4,12 @@ layout: page
 
 ## Ankündigungen
 
-### Białystok, 27.-29. Juli 2022
-
-#### Jahrestagung der Matthias-Kramer-Gesellschaft: "Mehrsprachigkeit im Schulwesen der FNZ"
-
-* [CfP]( {{site.url}}/downloads/CfP_Bialystok.pdf ){:target="_blank"}
-
-### Hamburg, 2022
+### Hamburg, 4.-6. Okt. 2022
 
 #### 37. Jahrestagung des Internationalen Arbeitskreises für Hist. Stadtsprachenforschung
 
-* [CfP]( {{site.url}}/downloads/CfP_Hamburg.pdf ){:target="_blank"}
+* [Website]( https://www.slm.uni-hamburg.de/germanistik/ueber-das-institut/aktuelles/2022-06-21-jahrestagung-stadtsprachenforschung.html ){:target="_blank"}
 
-### Warschau (online), 10.-12. Sept. 2021
-
-#### 4. HiGeWiS-Tagung: "Historische Fach- und Wissenschaftstexte kontrastiv"
-
-* [CfP]( {{site.url}}/downloads/CfP_DT.pdf ){:target="_blank"}
 
 
 

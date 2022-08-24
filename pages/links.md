@@ -20,7 +20,7 @@ verfügbaren Volltexten, die für die deutsche Fach- und Wissenschaftssprachgesc
 > Im Rahmen des seit 2007 an der Berlin-Brandenburgischen Akademie der Wissenschaften angesiedelten DTA wird ein umfangreiches 
 historisches Referenzkorpus für das 17. bis 19. Jahrhundert aufgebaut. Es enthält Volltexte, v. a. gedruckte Erstausgaben 
 unterschiedlicher „Genres“ (Erbauungsliteratur, Wissenschaft etc.), wobei größere Textmengen bereits ab den 1580er Jahren zur 
-Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 944 Werke verfügbar (Stand: 4.3.2021). -
+Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 944 Werke verfügbar (Stand: 24.8.2022). -
 [Projektseite]( http://www.deutschestextarchiv.de/list/browse?genre=Wissenschaft ){:target="_blank"}
  
  
@@ -63,4 +63,4 @@ zu identifizieren. -
 [Homepage]( http://stadtsprachen.germanistik.uni-wuerzburg.de/ ){:target="_blank"}
 
 * KULI - Kulturbezogene und kulturanalytische Linguistik  
-[Homepage]( http://www.kulturlinguistik.org/ ){:target="_blank"}
+[Homepage]( https://kulturlinguistik.org/ ){:target="_blank"}
