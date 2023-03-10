@@ -4,11 +4,13 @@ layout: page
 
 ## Ankündigungen
 
-### Hamburg, 4.-6. Okt. 2022
+### Wittenberg, 1./2. März 2024
 
-#### 37. Jahrestagung des Internationalen Arbeitskreises für Hist. Stadtsprachenforschung
+#### 5. HiGeWiS-Arbeitskreistagung: 
 
-* [Website]( https://www.slm.uni-hamburg.de/germanistik/ueber-das-institut/aktuelles/2022-06-21-jahrestagung-stadtsprachenforschung.html ){:target="_blank"}
+#### "Wissenschaftssprache, Fachlexikographie, Fachdokumentation"
+
+* [Website]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagungen/tagung-wissenschaftssprache-fachlexikographie-fachdokumentation-wittenberg-2024/ ){:target="_blank"}
 
 
 
