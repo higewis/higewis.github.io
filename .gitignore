@@ -6,3 +6,4 @@ _site
 .sass-cache
 log.txt
 _config_testserver.yml
+.project
