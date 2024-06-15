@@ -20,7 +20,7 @@ verfügbaren Volltexten, die für die deutsche Fach- und Wissenschaftssprachgesc
 > Im Rahmen des seit 2007 an der Berlin-Brandenburgischen Akademie der Wissenschaften angesiedelten DTA wird ein umfangreiches 
 historisches Referenzkorpus für das 17. bis 19. Jahrhundert aufgebaut. Es enthält Volltexte, v. a. gedruckte Erstausgaben 
 unterschiedlicher „Genres“ (Erbauungsliteratur, Wissenschaft etc.), wobei größere Textmengen bereits ab den 1580er Jahren zur 
-Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 818 Werke verfügbar (Stand: 9.2.2018). -
+Verfügung stehen. Unter der Kategorie "Wissenschaft" sind derzeit 944 Werke verfügbar (Stand: 24.8.2022). -
 [Projektseite]( http://www.deutschestextarchiv.de/list/browse?genre=Wissenschaft ){:target="_blank"}
  
  
@@ -32,7 +32,7 @@ Voraussetzens, des Begründens, des Folgerns, des Einschränkens, des Übertrage
 [Projektseite]( http://research.uni-leipzig.de/gesig/index.html ){:target="_blank"}
 
 
-* HiVoKo - Historisches Vorlesungskorpus (Michael Prinz, Universität Zürich)
+* HiVoKo - Historisches Vorlesungskorpus (Michael Prinz, Universität Uppsala)
 
 > Im Rahmen des Projekts "Historisches Vorlesungskorpus" (Diachronic Lecture Corpus) wird ein annotiertes Textkorpus handschriftlicher 
 studentischer Vorlesungsnachschriften ab ca. 1700 aufgebaut. Damit sollen Erkenntnisse über die historische akademische Mündlichkeit und die Entwicklung der 
@@ -59,5 +59,8 @@ zu identifizieren. -
 * GGSG - Gesellschaft für germanistische Sprachgeschichte e.V.  
 [Homepage]( http://germanistische-sprachgeschichte.de/ ){:target="_blank"}
 
+* IAK - Internationaler Arbeitskreis Historische Stadtsprachenforschung  
+[Homepage]( http://stadtsprachen.germanistik.uni-wuerzburg.de/ ){:target="_blank"}
+
 * KULI - Kulturbezogene und kulturanalytische Linguistik  
-[Homepage]( http://www.kulturlinguistik.org/ ){:target="_blank"}
+[Homepage]( https://kulturlinguistik.org/ ){:target="_blank"}

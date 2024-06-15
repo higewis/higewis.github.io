@@ -4,12 +4,14 @@ layout: page
 
 ## Ankündigungen
 
-### Eichstätt, 23./24. September 2019
+### Wittenberg, 1./2. März 2024
 
-#### Die Sprache wissenschaftlicher Objekte. Interdisziplinäre Perspektiven auf die materielle Kultur in den Wissenschaften
-(3. HiGeWiS-Tagung)
+#### 5. HiGeWiS-Arbeitskreistagung: 
 
-[CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"} 
+#### "Wissenschaftssprache, Fachlexikographie, Fachdokumentation"
 
-[Programm]( https://www.ku.de/slf/germanistik/deutschsprawi/tagungen-und-workshops/die-sprache-wissenschaftlicher-objekte/programm/ ){:target="_blank"}
+* [Website]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagungen/tagung-wissenschaftssprache-fachlexikographie-fachdokumentation-wittenberg-2024/ ){:target="_blank"}
+
+
+
 

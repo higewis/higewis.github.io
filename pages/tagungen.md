@@ -7,6 +7,26 @@ header:
 
 
 
+## 2021: Warschau
+
+### "Historische Fach- und Wissenschaftstexte kontrastiv"
+
+Universität Warschau, Fakultät Angewandte Linguistik, 10.-12. September 2021 (Online-Tagung)
+
+
+* [CfP]( {{site.url}}/downloads/CfP_DT.pdf ){:target="_blank"}
+
+![Tagungsposter]( {{site_url}}/images/Poster_Warschau.png )
+
+## 2019: Eichstätt
+
+### "Die Sprache wissenschaftlicher Objekte. Interdisziplinäre Perspektiven auf die materielle Kultur in den Wissenschaften"
+
+Kath. Universität Eichstätt-Ingolstadt, Lehrstuhl für Dt. Sprachwissenschaft, 23./24. September 2019
+
+
+* [CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"}
+
 ## 2017: Würzburg
 
 ### "Geschichte der Fach- und Wissenschaftssprachen. Identität, Differenz, Transfer"
@@ -14,7 +34,7 @@ header:
 Julius-Maximilians-Universität Würzburg, Lehrstuhl für deutsche Sprachwissenschaft, 12.-13. Oktober 2017
 
 
-* [Tagungshomepage]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagung-geschichte-der-fach-und-wissenschaftssprachen/ ){:target="_blank"} 
+* [Tagungsband]( https://opus.bibliothek.uni-wuerzburg.de/opus4-wuerzburg/frontdoor/deliver/index/docId/25117/file/WespA23_Klein_Staffeldt_Fach-und_Wissenschaftssprachen.pdf ){:target="_blank"} 
 
 ## 2015: Greifswald 
 
