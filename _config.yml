@@ -24,7 +24,7 @@ author: mprinz
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'http://www.wissenschaftssprache.org'
+url: 'https://www.wissenschaftssprache.org'
 baseurl: ''
 
 
@@ -38,7 +38,7 @@ baseurl: ''
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'http://www.wissenschaftssprache.org/images/'
+urlimg: 'https://www.wissenschaftssprache.org/images/'
 
 
 # Logo size is 600x80 pixels
