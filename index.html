@@ -24,7 +24,7 @@ homepage: true
 
 <br>
 {% for intropg in site.pages %}
-  {% if intropg.name == {{page.intro_page}} %}
+  {% if intropg.name == page.intro_page %}
 	{{intropg.content}} 
   {% endif %}
 {% endfor %}

@@ -6,7 +6,7 @@ format: blog-index
 	<div class="medium-8 columns{% if page.sidebar == NULL %} medium-offset-2 end{% endif %}{% if page.sidebar == "left" %} medium-push-4{% endif %}">
 		<article itemscope itemtype="http://schema.org/Article">
 
-			{% if {{paginator.page}} == 1 %}	<!-- only display sidebar on the frontpage -->
+			{% if paginator.page == 1 %}	<!-- only display sidebar on the frontpage -->
 				<header>
 					{% if page.image.title %}
 					<figure>
@@ -57,8 +57,7 @@ format: blog-index
 	</div><!-- /.medium-8.columns -->
 
 
-
-	{% if {{paginator.page}} == 1 %}		<!-- only display sidebar on the frontpage -->
+	{% if paginator.page == 1 %}		<!-- only display sidebar on the frontpage -->
 		{% if page.sidebar == "left" %}
 		<div class="medium-4 columns medium-pull-8">
 			{% include _sidebar.html %}
@@ -72,7 +71,6 @@ format: blog-index
 		</div><!-- /.medium-4.columns -->
 		{% endif %}
 	{% endif %}
-	
 	
 </div><!-- /.row -->
 
