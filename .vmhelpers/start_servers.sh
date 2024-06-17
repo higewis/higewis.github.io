@@ -4,14 +4,14 @@
 
 # helper script that helps to detect changes (was neccessarly for everything before but now could be used handling changes in the _config,yml)
 
-#if screen -ls | grep -q track_changes; then
-#	echo "Warning! Skip starting 'track_changes' (because it's already running, as in a screen with that name already exists)"
-#	sleep 1
-#else
-#	echo "starting 'track_changes' in screen (background)"
-#	sleep 1
-#	screen -dmS track_changes bash ~/jekyll/higewis_tesserver/.vmhelpers/track_changes.sh
-#fi
+if screen -ls | grep -q track_changes; then
+	echo "Warning! Skip starting 'track_changes' (because it's already running, as in a screen with that name already exists)"
+	sleep 1
+else
+	echo "starting 'track_changes' in screen (background)"
+	sleep 1
+	screen -dmS track_changes bash ~/jekyll/higewis_tesserver/.vmhelpers/track_changes.sh
+fi
 
 
 # this is the main script doing "jekyll serve" to detect changes, triggerung publish and serving pages

@@ -1,7 +1,7 @@
-TOUCH_FILE='_config_dev.yml'
+# Tracks changes to _congig.yml and such (which are ignored by jekyll) and force a jekyll restart
 
 cd ~/jekyll/higewis_tesserver
-export root_objs=`ls -1 | grep -v "_site" | grep -v $TOUCH_FILE`
+export root_objs="_config.yml Gemfile Gemfile.lock .ruby-version"
 
 old_sum=`ls -lAR $root_objs | md5sum`
 
@@ -10,12 +10,13 @@ do
 	new_sum=`ls -lAR $root_objs | md5sum`
 	if [ "$old_sum" != "$new_sum" ]
 	then
-		echo -n "!"
-		touch $TOUCH_FILE
+		echo ""
+		echo "interrupting jekyll to force restart because of config change"
+		pkill -f -e --signal SIGINT ".*jekyll serve.*"		
 		old_sum="$new_sum"
 	else
 		echo -n "."
 	fi
-	sleep 2
+	sleep 3
 done
 
