@@ -4,13 +4,15 @@ layout: page
 
 ## Ankündigungen
 
-### Wittenberg, 1./2. März 2024
+### Heidelberg, 5.-7. März 2026
 
-#### 5. HiGeWiS-Arbeitskreistagung: 
+#### 6. HiGeWiS-Arbeitskreistagung: 
 
-#### "Wissenschaftssprache, Fachlexikographie, Fachdokumentation"
+#### "Mehrsprachigkeit und Übersetzung in der Geschichte der deutschen Wissenschafts- und Gelehrtensprachen"
 
-* [Website]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagungen/tagung-wissenschaftssprache-fachlexikographie-fachdokumentation-wittenberg-2024/ ){:target="_blank"}
+#### Frist: 10.7.2025
+
+* [CfP]( {{site.url}}/downloads/CfP_Heidelberg.pdf ){:target="_blank"} 
 
 
 

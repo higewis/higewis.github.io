@@ -7,6 +7,16 @@ header:
 
 
 
+## 2024: Wittenberg
+
+### "Wissenschaftssprache, Fachlexikographie, Fachdokumentation"
+
+Leucorea Wittenberg, 1./2. März 2024 
+
+
+* [Tagungsbericht]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagungen/tagung-wissenschaftssprache-fachlexikographie-fachdokumentation-wittenberg-2024/ ){:target="_blank"}  
+* [Tagungswebsite]( https://www.germanistik.uni-wuerzburg.de/sprawi/forschung/tagungen/tagung-wissenschaftssprache-fachlexikographie-fachdokumentation-wittenberg-2024/ ){:target="_blank"}
+
 ## 2021: Warschau
 
 ### "Historische Fach- und Wissenschaftstexte kontrastiv"
@@ -14,7 +24,7 @@ header:
 Universität Warschau, Fakultät Angewandte Linguistik, 10.-12. September 2021 (Online-Tagung)
 
 
-* [CfP]( {{site.url}}/downloads/CfP_DT.pdf ){:target="_blank"}
+* [Tagungsband]( https://www.degruyterbrill.com/document/doi/10.1515/9783111328867/html ){:target="_blank"}
 
 ![Tagungsposter]( {{site_url}}/images/Poster_Warschau.png )
 
@@ -25,7 +35,7 @@ Universität Warschau, Fakultät Angewandte Linguistik, 10.-12. September 2021 (
 Kath. Universität Eichstätt-Ingolstadt, Lehrstuhl für Dt. Sprachwissenschaft, 23./24. September 2019
 
 
-* [CfP]( {{site.url}}/downloads/CfP_Eichstaett.pdf ){:target="_blank"}
+* [Tagungsband]( https://www.degruyterbrill.com/document/doi/10.1515/9783111437392/html ){:target="_blank"}
 
 ## 2017: Würzburg
 
@@ -43,6 +53,7 @@ Julius-Maximilians-Universität Würzburg, Lehrstuhl für deutsche Sprachwissens
 Greifswald, Alfried Krupp Wissenschaftskolleg, 12.-14. November 2015  
 
 * [Tagungsbericht]( {{site.url}}/downloads/zgl-2016-0014.pdf ){:target="_blank"} von Anne Diehr (Greifswald) in der Zeitschrift für germanistische Linguistik.
+* [Tagungsband]( https://www.degruyterbrill.com/document/doi/10.1515/9783110476958/html ){:target="_blank"}
 
 ![Tagungsposter]( {{site_url}}/images/Poster_Greifswald_klein.jpg )
 

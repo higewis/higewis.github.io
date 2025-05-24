@@ -28,7 +28,7 @@ populärwissenschaftliche Sprach- und Kommunikationsformen sowie Fragen des Wiss
 
 * [Weitere Informationen]( https://www.degruyter.com/serial/LIAC-B/html ){:target="_blank"} auf den Seiten des Verlags Walter de Gruyter
 
-* bisher erschienen: Bände 1-7, in Vorbereitung für 2022/23: Bände 8-10 
+* bisher erschienen: Bände 1-9, in Vorbereitung für 2026: Bände 10&11 
 
 * Wissenschaftlicher Beirat:  Marian Füssel (Göttingen), Daniel Fulda (Halle), Michael D. Gordin (Princeton), Mechthild Habermann (Erlangen), 
 Marion Gindhart (Mainz), Thomas Gloning (Gießen), Angelika Linke (Zürich), Leo Kretzenbacher (Melbourne), Matthias Schulz (Würzburg), Dirk Werle (Heidelberg)
@@ -40,3 +40,5 @@ Marion Gindhart (Mainz), Thomas Gloning (Gießen), Angelika Linke (Zürich), Leo
 ![LIAC]( {{site_url}}/images/LIAC_5.jpg )
 ![LIAC]( {{site_url}}/images/LIAC_6.jpg )
 ![LIAC]( {{site_url}}/images/LIAC_7.jpg )
+![LIAC]( {{site_url}}/images/LIAC_8.jpg )
+![LIAC]( {{site_url}}/images/LIAC_9.jpg )
