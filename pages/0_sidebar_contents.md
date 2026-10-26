@@ -17,7 +17,7 @@ layout: page
 #### "Gattungs-, Kommunikations- und Kulturgeschichte der deutschsprachigen Vorlesung"
 
 * [Programm]( {{site.url}}/downloads/Programm_Vorlesung_2026.pdf ){:target="_blank"} 
-* [Book of Abstracts]( {{site.url}}/downloads/ ){:target="_blank"} 
+* [Book of Abstracts]( {{site.url}}/downloads/Book of Abstracts.pdf ){:target="_blank"} 
 
 
 ### Potsdam, 8./9. März 2027 
